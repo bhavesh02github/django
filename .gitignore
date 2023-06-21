@@ -1,0 +1,6 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Django's static and media files
+staticfiles/
+media/
